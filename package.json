@@ -1,0 +1,35 @@
+{
+  "name": "feedthecats",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^4.17.3",
+    "@clerk/themes": "^1.6.4",
+    "@clerk/types": "^3.36.0",
+    "@ducanh2912/next-pwa": "^8.4.1",
+    "@emotion/react": "^11.11.0",
+    "@mantine/core": "^6.0.10",
+    "@mantine/form": "^6.0.10",
+    "@mantine/hooks": "^6.0.10",
+    "@mantine/notifications": "^6.0.10",
+    "@types/node": "20.1.4",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "@vercel/postgres": "^0.3.0",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.2",
+    "next": "13.4.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
+}
